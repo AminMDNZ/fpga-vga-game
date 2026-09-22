@@ -1,0 +1,11 @@
+# Xilinx ISE generates many build files. Keep only sources, the project file and docs.
+*
+!*/
+!.gitignore
+!*.md
+!*.vhd
+!*.ucf
+!*.xise
+!*.png
+!*.jpg
+!*.gif
